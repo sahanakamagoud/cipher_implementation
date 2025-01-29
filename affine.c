@@ -74,7 +74,6 @@ scanf("%d",&beta);
      }
     }
 printf("\n");
- 
 }
 
 int CalcGCD(int alpha)
